@@ -2,7 +2,7 @@
 
 Simple TypeScript demonstration. Simple functions highlighting some common uses when using TypeScript. This was created to effectively demonstrate some understanding and application of the language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2zzHS3bT9Bk)
 
 # Development Environment
 
